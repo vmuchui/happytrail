@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  color: #f7325e;
+  font-family:fantasy;
+}
+.tropic{
+  font-family: sans-serif;
+  color: #0000ff;
+  text-align: center;
+  list-style: inside;
+}
+.popular{
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  list-style: inside;
+  color: #fe0000
+}
+h3{
+  text-align: center;
+  font-family: serif;
+}
