@@ -30,3 +30,7 @@ body{
   text-align: center;
   color: #ff0000;
 }
+.important{
+  font-weight: bolder;
+  font-style: italic;
+}
